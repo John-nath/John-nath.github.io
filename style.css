@@ -151,27 +151,27 @@ p {
     height: 22.5rem;
     
 }
-.works__envelope-box__background--1 {
-    background-image: url('pic-1.jpg');
-}
 .works__envelope-box__background--2 {
     background-image: url('pic-2.jpg');
+}
+.works__envelope-box__background--4{
+    background-image: url('pic-4.jpg');
 }
 .works__envelope-box__background--3 {
     background-image: url('pic-3.jpg');
     
 }
-.works__envelope-box__background--4 {
-    background-image: url('pic-18.jpg');
+.works__envelope-box__background--1 {
+    background-image: url('pic-1.jpg');
     
 }
 
 .works__envelope-box__background--5 {
-    background-image: url('pic-19.jpg');  
+    background-image: url('pic-5.jpg');  
 }
 
 .works__envelope-box__background--6 {
-    background-image: url('pic-20.jpg');  
+    background-image: url('pic-6.jpg');  
 }
 .hire {
     background-color: rgba(253, 216, 68, 0.4);      
@@ -221,7 +221,7 @@ p {
     height: 100%;
 }
 .contact__envelope-box--1 {
-    background-image: url('mail2.jpg');
+    background-image: url('pic-7.jpg');
     flex-basis: 50%;
     height: 100%;
     filter: blur(2px);
@@ -326,7 +326,7 @@ footer ul li a{
     .hero .details {
         flex-basis: 100%;
         column-gap: 0px;
-        background-image: linear-gradient(to bottom right, rgba(0, 0,0, 0.7), rgba(0,0,0, .7)),url('sendforth.jpg');
+        background-image: linear-gradient(to bottom right, rgba(0, 0,0, 0.7), rgba(0,0,0, .7)),url('avatar.png');
     }
     .contact__envelope-box--2 {
         width: 60%;
