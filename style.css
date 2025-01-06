@@ -83,7 +83,7 @@ p {
     display: flex;
     flex-direction: column;
     padding-top: 10.0rem;
-    height: 130.0rem;
+    height: 180.0rem;
     
     
 }
@@ -163,6 +163,12 @@ p {
 }
 .works__envelope-box__background--1 {
     background-image: url('pic-1.jpg');
+    
+}
+
+.works__envelope-box__background--8 {
+    background-image: url('pic-8.jpg');
+    
     
 }
 
@@ -312,7 +318,8 @@ footer ul li a{
         width: 64.5rem;
     }
     .works {
-        height: 180rem;
+        height: 218rem;
+        
     }  
 }
 @media screen and (max-width: 768px) {
@@ -338,7 +345,7 @@ footer ul li a{
         width: 30rem;
     }
     .works {
-        height: 320rem;
+        height: 368rem;
     }
     .hire__envelope{
         width: 50rem;
